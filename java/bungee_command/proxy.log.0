@@ -1,0 +1,309 @@
+18:35:43 [INFO] Enabled BungeeCord version unknown
+18:35:44 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:35:44 [INFO] Listening websockets on /0.0.0.0:25565
+18:35:44 [INFO] Listening on /127.11.0.1:35839
+18:39:23 [INFO] Enabled BungeeCord version unknown
+18:39:23 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:39:24 [INFO] Listening websockets on /0.0.0.0:25565
+18:39:24 [INFO] Listening on /127.11.0.1:41697
+18:43:51 [INFO] Enabled BungeeCord version unknown
+18:43:51 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:43:51 [INFO] Listening websockets on /0.0.0.0:25565
+18:43:52 [INFO] Listening on /127.11.0.1:33617
+18:45:28 [INFO] Enabled BungeeCord version unknown
+18:45:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:45:28 [INFO] Listening websockets on /0.0.0.0:25565
+18:45:29 [INFO] Listening on /127.11.0.1:35909
+18:46:48 [INFO] Enabled BungeeCord version unknown
+18:46:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:46:49 [INFO] Listening websockets on /0.0.0.0:25565
+18:46:49 [INFO] Listening on /127.11.0.1:40945
+18:47:31 [INFO] Enabled BungeeCord version unknown
+18:47:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:47:31 [INFO] Listening websockets on /0.0.0.0:25565
+18:47:32 [INFO] Listening on /127.11.0.1:39177
+18:59:15 [INFO] Enabled BungeeCord version unknown
+18:59:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:59:16 [INFO] Listening websockets on /0.0.0.0:25565
+18:59:16 [INFO] Listening on /127.11.0.1:35715
+19:00:45 [INFO] Enabled BungeeCord version unknown
+19:00:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:00:46 [INFO] Listening websockets on /0.0.0.0:8000
+19:00:46 [SEVERE] java.net.BindException: Address already in use
+19:00:46 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+19:00:46 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+19:00:46 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+19:00:46 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+19:00:46 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+19:00:46 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+19:00:46 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+19:00:46 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+19:00:46 [INFO] Listening on /127.11.0.1:45425
+19:01:59 [INFO] Enabled BungeeCord version unknown
+19:02:00 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:02:00 [INFO] Listening websockets on /0.0.0.0:8080
+19:02:00 [SEVERE] java.net.BindException: Address already in use
+19:02:00 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+19:02:00 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+19:02:00 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+19:02:00 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+19:02:00 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+19:02:00 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+19:02:00 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+19:02:00 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+19:02:00 [INFO] Listening on /127.11.0.1:36969
+19:03:26 [INFO] Enabled BungeeCord version unknown
+19:03:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:03:27 [INFO] Listening websockets on /0.0.0.0:1
+19:03:27 [INFO] Listening on /127.11.0.1:35491
+19:03:42 [INFO] websocket opened - /127.0.0.1:34850
+19:03:43 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:03:43 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:03:53 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+19:03:53 [INFO] websocket closed - /127.0.0.1:34850
+19:03:53 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+19:05:25 [INFO] Enabled BungeeCord version unknown
+19:05:26 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:05:26 [INFO] Listening websockets on /0.0.0.0:1
+19:05:26 [INFO] Listening on /127.11.0.1:45655
+19:06:07 [INFO] websocket opened - /127.0.0.1:34928
+19:06:08 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:06:08 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:07:23 [INFO] websocket closed - /127.0.0.1:34928
+19:07:23 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+19:07:23 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+19:07:59 [INFO] websocket opened - /127.0.0.1:34986
+19:07:59 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:07:59 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:09:52 [INFO] websocket opened - /127.0.0.1:35096
+19:09:53 [INFO] [KrusherG] <-> InitialHandler has connected
+19:09:53 [INFO] [KrusherG] <-> ServerConnector [lobby] has connected
+19:12:26 [INFO] websocket closed - /127.0.0.1:34986
+19:12:26 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+19:12:26 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+19:12:33 [INFO] [KrusherG] -> UpstreamBridge has disconnected
+19:12:33 [INFO] websocket closed - /127.0.0.1:35096
+19:12:33 [INFO] [KrusherG] <-> DownstreamBridge <-> [lobby] has disconnected
+19:27:29 [INFO] websocket opened - /127.0.0.1:36162
+19:27:29 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:27:29 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:27:35 [INFO] websocket opened - /127.0.0.1:36190
+19:27:35 [INFO] [KrusherG] <-> InitialHandler has connected
+19:27:35 [INFO] [KrusherG] <-> ServerConnector [lobby] has connected
+19:33:44 [INFO] websocket opened - /127.0.0.1:36556
+19:33:44 [INFO] [sal] <-> InitialHandler has connected
+19:33:44 [INFO] [sal] <-> ServerConnector [lobby] has connected
+19:36:04 [INFO] websocket closed - /127.0.0.1:36556
+19:36:04 [INFO] [sal] -> UpstreamBridge has disconnected
+19:36:04 [INFO] [sal] <-> DownstreamBridge <-> [lobby] has disconnected
+19:36:32 [INFO] websocket closed - /127.0.0.1:36162
+19:36:32 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+19:36:32 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+19:37:31 [INFO] websocket closed - /127.0.0.1:36190
+19:37:31 [INFO] [KrusherG] -> UpstreamBridge has disconnected
+19:37:31 [INFO] [KrusherG] <-> DownstreamBridge <-> [lobby] has disconnected
+19:39:28 [INFO] websocket opened - /127.0.0.1:36918
+19:39:28 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:39:28 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:46:58 [INFO] websocket opened - /127.0.0.1:37554
+19:46:58 [INFO] [KrusherG] <-> InitialHandler has connected
+19:46:58 [INFO] [KrusherG] <-> ServerConnector [lobby] has connected
+19:56:57 [INFO] Enabled BungeeCord version unknown
+19:56:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:56:58 [INFO] Listening websockets on /0.0.0.0:1
+19:56:59 [INFO] websocket opened - /127.0.0.1:59406
+19:56:59 [INFO] Listening on /127.11.0.1:33623
+19:57:00 [INFO] [KrusherG] <-> InitialHandler has connected
+19:57:00 [INFO] [KrusherG] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+19:57:00 [INFO] [KrusherG] -> UpstreamBridge has disconnected
+19:57:00 [INFO] websocket closed - /127.0.0.1:59406
+19:57:22 [INFO] websocket opened - /127.0.0.1:60142
+19:57:22 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+19:57:22 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+19:57:26 [INFO] websocket opened - /127.0.0.1:60314
+19:57:26 [INFO] [KrusherG] <-> InitialHandler has connected
+19:57:26 [INFO] [KrusherG] <-> ServerConnector [lobby] has connected
+20:07:57 [INFO] websocket closed - /127.0.0.1:60142
+20:07:57 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+20:07:57 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+20:08:12 [INFO] websocket closed - /127.0.0.1:60314
+20:08:12 [INFO] [KrusherG] -> UpstreamBridge has disconnected
+20:08:12 [SEVERE] Mar 07, 2022 8:08:12 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+20:08:12 [SEVERE] Mar 07, 2022 8:08:12 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 2 channel(s) to the new Selector.
+
+20:08:12 [INFO] [KrusherG] <-> DownstreamBridge <-> [lobby] has disconnected
+20:30:48 [INFO] websocket opened - /127.0.0.1:56028
+20:30:48 [INFO] [sal] <-> InitialHandler has connected
+20:30:48 [INFO] [sal] <-> ServerConnector [lobby] has connected
+20:43:57 [INFO] websocket opened - /127.0.0.1:36598
+20:43:57 [INFO] [KrusherG] <-> InitialHandler has connected
+20:43:57 [INFO] [KrusherG] <-> ServerConnector [lobby] has connected
+20:46:26 [INFO] websocket opened - /127.0.0.1:38394
+20:46:26 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+20:46:27 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+20:52:10 [WARNING] [sal] -> UpstreamBridge - read timed out
+20:52:10 [INFO] [sal] disconnected with: ReadTimeoutException : null
+20:52:10 [INFO] [sal] -> UpstreamBridge has disconnected
+20:52:10 [INFO] [sal] <-> DownstreamBridge <-> [lobby] has disconnected
+20:52:32 [INFO] websocket closed - /127.0.0.1:56028
+20:52:37 [INFO] websocket opened - /127.0.0.1:42298
+20:52:37 [INFO] [sal] <-> InitialHandler has connected
+20:52:37 [INFO] [sal] <-> ServerConnector [lobby] has connected
+20:52:47 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+20:52:47 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+20:52:47 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+20:52:47 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:78)
+20:52:47 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+20:52:47 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+20:52:47 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+20:52:47 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+20:52:47 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+20:52:47 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+20:52:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+20:52:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+20:52:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+20:52:47 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+20:52:47 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+20:52:47 [INFO] websocket closed - /127.0.0.1:42298
+20:52:47 [INFO] [sal] -> UpstreamBridge has disconnected
+20:52:47 [SEVERE] Mar 07, 2022 8:52:47 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+20:52:47 [SEVERE] Mar 07, 2022 8:52:47 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 6 channel(s) to the new Selector.
+
+20:52:47 [INFO] [sal] <-> DownstreamBridge <-> [lobby] has disconnected
+21:01:43 [INFO] [KrusherG] -> UpstreamBridge has disconnected
+21:01:43 [INFO] websocket closed - null
+21:01:43 [INFO] [KrusherG] <-> DownstreamBridge <-> [lobby] has disconnected
+21:01:43 [SEVERE] Mar 07, 2022 9:01:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:01:43 [SEVERE] Mar 07, 2022 9:01:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+21:03:47 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:03:47 [INFO] websocket closed - /127.0.0.1:38394
+21:03:47 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+21:03:47 [SEVERE] Mar 07, 2022 9:03:47 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:03:47 [SEVERE] Mar 07, 2022 9:03:47 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+21:39:00 [INFO] websocket opened - /127.0.0.1:49606
+21:39:00 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:39:00 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:40:46 [INFO] websocket opened - /127.0.0.1:50990
+21:40:46 [INFO] [jeSUS] <-> InitialHandler has connected
+21:40:46 [INFO] [jeSUS] <-> ServerConnector [lobby] has connected
+21:43:43 [INFO] [jeSUS] disconnected with: [Kicked] Kicked by an operator.
+21:43:43 [INFO] [jeSUS] -> UpstreamBridge has disconnected
+21:43:43 [INFO] [jeSUS] <-> DownstreamBridge <-> [lobby] has disconnected
+21:43:44 [INFO] websocket closed - /127.0.0.1:50990
+21:43:46 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+21:43:46 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+21:43:46 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+21:43:46 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:78)
+21:43:46 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+21:43:46 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+21:43:46 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+21:43:46 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+21:43:46 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+21:43:46 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+21:43:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+21:43:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+21:43:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+21:43:46 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+21:43:46 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+21:43:46 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:43:46 [INFO] websocket closed - /127.0.0.1:49606
+21:43:46 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+21:52:47 [INFO] Enabled BungeeCord version unknown
+21:52:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:52:50 [INFO] Listening websockets on /0.0.0.0:1
+21:52:51 [INFO] Listening on /127.11.0.1:38741
+21:52:58 [INFO] websocket opened - /127.0.0.1:33458
+21:53:00 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:53:01 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:53:01 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has disconnected
+21:53:31 [WARNING] [EmeraldGltch] -> UpstreamBridge - read timed out
+21:53:31 [INFO] [EmeraldGltch] disconnected with: ReadTimeoutException : null
+21:53:31 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:53:31 [INFO] websocket closed - /127.0.0.1:33458
+21:53:38 [INFO] websocket opened - /127.0.0.1:34102
+21:53:38 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:53:38 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:54:14 [INFO] websocket closed - /127.0.0.1:34102
+21:54:14 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:54:15 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+21:54:16 [INFO] websocket opened - /127.0.0.1:34648
+21:54:17 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:54:17 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:54:47 [WARNING] [EmeraldGltch] <-> ServerConnector [lobby] - read timed out
+21:54:47 [INFO] [EmeraldGltch] disconnected with: Exception Connecting:ReadTimeoutException : null
+21:54:47 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:54:47 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has disconnected
+21:54:47 [INFO] websocket closed - /127.0.0.1:34648
+21:56:07 [INFO] Enabled BungeeCord version unknown
+21:56:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:56:10 [INFO] Listening websockets on /0.0.0.0:1
+21:56:11 [INFO] Listening on /127.11.0.1:43489
+21:56:37 [INFO] websocket opened - /127.0.0.1:36640
+21:56:38 [INFO] websocket closed - /127.0.0.1:36640
+21:56:39 [INFO] websocket opened - /127.0.0.1:36692
+21:56:39 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:56:39 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:56:40 [SEVERE] [EmeraldGltch] <-> ServerConnector [lobby] - encountered exception
+java.lang.NullPointerException
+	at net.md_5.bungee.ServerConnector.connected(ServerConnector.java:79)
+	at net.md_5.bungee.netty.HandlerBoss.channelActive(HandlerBoss.java:33)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelActive(DefaultChannelHandlerContext.java:237)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelActive(DefaultChannelHandlerContext.java:223)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelActive(ChannelInboundHandlerAdapter.java:66)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelActive(DefaultChannelHandlerContext.java:237)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelActive(DefaultChannelHandlerContext.java:223)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelActive(ChannelInboundHandlerAdapter.java:66)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelActive(ReadTimeoutHandler.java:138)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelActive(DefaultChannelHandlerContext.java:237)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelActive(DefaultChannelHandlerContext.java:223)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelActive(DefaultChannelPipeline.java:747)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:234)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:505)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:748)
+21:56:40 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has disconnected
+21:56:40 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:56:40 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:57:38 [WARNING] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] - read timed out
+21:57:38 [INFO] [EmeraldGltch] disconnected with: ReadTimeoutException : null
+21:57:38 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:57:38 [INFO] [EmeraldGltch] <-> DownstreamBridge <-> [lobby] has disconnected
+21:57:38 [INFO] websocket closed - /127.0.0.1:36692
+21:57:41 [INFO] websocket opened - /127.0.0.1:37612
+21:57:41 [INFO] [EmeraldGltch] <-> InitialHandler has connected
+21:57:41 [INFO] [EmeraldGltch] <-> ServerConnector [lobby] has connected
+21:57:50 [INFO] [EmeraldGltch] -> UpstreamBridge has disconnected
+21:57:50 [INFO] websocket closed - /127.0.0.1:37612
+21:58:29 [INFO] Enabled BungeeCord version unknown
+21:58:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:58:31 [INFO] Listening websockets on /0.0.0.0:1
+21:58:31 [SEVERE] java.net.BindException: Address already in use
+21:58:31 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+21:58:31 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+21:58:31 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+21:58:31 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+21:58:31 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+21:58:31 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+21:58:31 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+21:58:31 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+21:58:33 [INFO] Listening on /127.11.0.1:32827
+22:28:36 [INFO] Enabled BungeeCord version unknown
+22:28:36 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:28:36 [INFO] Listening websockets on /0.0.0.0:1
+22:28:37 [INFO] Listening on /127.11.0.1:46341
